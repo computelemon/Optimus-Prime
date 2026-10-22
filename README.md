@@ -13,4 +13,7 @@ I was not able to find the original code, but it was not pretty. AI was not as a
 In order to get the bot to closely resemble Optimus Prime, I had to find a way around the 150x150 restriction. My solution was to have the legs fold up along the back panel. That satisfied the spacial restriction but still allowed the bot to look proportional and drive better. 
 In retrospect I should have used a different filament like TPU for the tires as traction was an issue, no problem for some electrical tape though. Granted I was using an Ender 3 and TPU on that would have been a nightmare!
 
+This bot was designed to have two modes, a mode where it would transform and stand up and have the face pop up, and to complete the design objective. To transform, the hip pivoted on a gear powered by a servo and the face was attached to the backplate, pushed by a servo. The bot relied on 2 ir sensors, one in the center and another offset to the left. (bots perspective) This allowed us to follow a line fairly well.
+I ran out of time to have arms come out of the body and to design smoke stacks. 
+
 Attached is my design and some pictures of the process. As I found out the hard way at 3am before the presentation… soldering irons are indeed hot. 
